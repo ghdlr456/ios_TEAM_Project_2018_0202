@@ -13,7 +13,8 @@
 2. 그리고 늘해랑을 눌렀을때 위에 바 버튼아이템을 추가해서 누르면 손가락 체크하는거 나오게해서 내기를 해서 할려고 아이디어로 만들었습니다.
 
 ![2018-06-29 2 14 30](https://user-images.githubusercontent.com/37132895/42074558-cc35a280-7ba7-11e8-9445-42e3247268e1.png)
-![Uploading 스크린샷 2018-06-29 오후 2.37.38.png…]()
+![2018-06-29 2 37 38](https://user-images.githubusercontent.com/37132895/42075116-55365bae-7baa-11e8-914d-35aabae1a05e.png)
+
 
 
 
