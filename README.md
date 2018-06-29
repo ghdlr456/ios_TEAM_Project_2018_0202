@@ -19,3 +19,5 @@
 
 
 3. 시작하면 메인화면에서 Item 누르면 swich누르면 현재시간이 뜹니다.
+![2018-06-29 2 25 39](https://user-images.githubusercontent.com/37132895/42075153-81a67d04-7baa-11e8-917f-ceb1bde2314f.png)
+![2018-06-29 2 14 00](https://user-images.githubusercontent.com/37132895/42075158-844bd540-7baa-11e8-8486-ec305124cc84.png)
