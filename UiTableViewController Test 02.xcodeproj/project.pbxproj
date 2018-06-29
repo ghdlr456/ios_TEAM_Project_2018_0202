@@ -19,7 +19,8 @@
 		741C17EC20AC061400FE6E1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 741C17EB20AC061400FE6E1E /* Assets.xcassets */; };
 		741C17EF20AC061400FE6E1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 741C17ED20AC061400FE6E1E /* LaunchScreen.storyboard */; };
 		741C17F720AC06C400FE6E1E /* MyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 741C17F620AC06C400FE6E1E /* MyTableViewController.swift */; };
-		745E820720E0EC71009CEECB /* PlusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745E820620E0EC71009CEECB /* PlusViewController.swift */; };
+		745E93ED20E5F52D005613DD /* AlarmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745E93EC20E5F52D005613DD /* AlarmViewController.swift */; };
+		745E93EF20E5FB1B005613DD /* fingersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745E93EE20E5FB1B005613DD /* fingersViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,7 +38,8 @@
 		741C17EE20AC061400FE6E1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		741C17F020AC061400FE6E1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		741C17F620AC06C400FE6E1E /* MyTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewController.swift; sourceTree = "<group>"; };
-		745E820620E0EC71009CEECB /* PlusViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusViewController.swift; sourceTree = "<group>"; };
+		745E93EC20E5F52D005613DD /* AlarmViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmViewController.swift; sourceTree = "<group>"; };
+		745E93EE20E5FB1B005613DD /* fingersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fingersViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,11 +82,12 @@
 		05BEBCF420CEB1C1007033AD /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				745E93EC20E5F52D005613DD /* AlarmViewController.swift */,
 				0572C91720C2B39400B79406 /* TotalMapViewController.swift */,
 				058F274620BEE6CC00271381 /* MapViewController.swift */,
 				741C17F620AC06C400FE6E1E /* MyTableViewController.swift */,
 				641A0F0420BBDA36004ECC5A /* DetailViewController.swift */,
-				745E820620E0EC71009CEECB /* PlusViewController.swift */,
+				745E93EE20E5FB1B005613DD /* fingersViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -201,15 +204,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				745E93ED20E5F52D005613DD /* AlarmViewController.swift in Sources */,
 				741C17E520AC061400FE6E1E /* AppDelegate.swift in Sources */,
 				648FAC0520B29D5B00ACCE56 /* FoodStoreTableViewCell.swift in Sources */,
 				0572C91820C2B39400B79406 /* TotalMapViewController.swift in Sources */,
 				0572C91620C26BB100B79406 /* MapTableViewCell.swift in Sources */,
+				745E93EF20E5FB1B005613DD /* fingersViewController.swift in Sources */,
 				741C17F720AC06C400FE6E1E /* MyTableViewController.swift in Sources */,
 				058F274720BEE6CC00271381 /* MapViewController.swift in Sources */,
 				641A0F0520BBDA36004ECC5A /* DetailViewController.swift in Sources */,
 				0564FFF220CE2C4F00353BD8 /* FoodStore.swift in Sources */,
-				745E820720E0EC71009CEECB /* PlusViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
